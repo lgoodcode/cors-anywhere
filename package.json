@@ -1,0 +1,12 @@
+{
+  "name": "cors-anywhere",
+  "version": "1.0.0",
+  "description": "CORS proxy server to avoid 'No Access-Control-Allow-Origin header problems'",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
